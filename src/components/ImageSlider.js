@@ -1,5 +1,5 @@
 import React,{useState} from 'react';
-import {SliderData} from './SliderData'
+import {SliderData} from './sliderData'
 import { FiArrowLeftCircle,FiArrowRightCircle } from "react-icons/fi";
 
 const ImageSlider = ({slides}) => {
